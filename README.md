@@ -1,0 +1,1 @@
+# sveltekit_asset_manager
